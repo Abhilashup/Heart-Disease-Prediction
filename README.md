@@ -1,7 +1,7 @@
 # Heart-Disease-Prediction
 
 # About the Project
-This is a machine learning model that is used to predict if a person has a heart disease or not. In this project, I have tried 3 models which are Random Forest Classification, Support Vector Machines and Logistic Resgression and I have chosen the best model among them based on the AUC Score and the model which had the best AUC score was Random Forest Classification which was around 0.92.
+This is a machine learning model that is used to predict if a person has a heart disease or not. In this project, I have tried 3 models which are Random Forest Classification, Support Vector Machines and Logistic Resgression and I have chosen the best model among them based on the AUC Score, Precision,Recall and F1 score and the model which had the best scores was Random Forest Classification.
 
 # Demo and Screenshots of the App
 
