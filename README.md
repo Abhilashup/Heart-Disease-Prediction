@@ -7,6 +7,7 @@ This is a machine learning model that is used to predict if a person has a heart
 
 The app can be checked out on the link given below:
 https://hd-prediction.herokuapp.com/
+Note : It may take a few seconds for the web app to open.
 
 Here are a few screenshots of the app :
 
